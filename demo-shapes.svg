@@ -59,7 +59,7 @@
     stroke-width="5"
   />
 
-  <!-- A curve -->
+  <!-- An arbitrary shape -->
   <path
     d="M20,230 Q40,205 50,230 T90,230"
     fill="none"
